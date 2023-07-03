@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+h1 {
+    width: 80vw;
+    height: 10vh;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.panel {
+    
+}
+.text {
+    font-size: 30px;
+    color: coral;
+    background-color: crimson;
+    width: 80vw;
+    height: 10vh;
+    text-align: right;
+    padding-right: 25px;
+}
